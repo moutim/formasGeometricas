@@ -1,0 +1,43 @@
+header {
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+
+header span:nth-child(1) {
+    color: #FF4D78;
+}
+
+header ul, a {
+    list-style: none;
+    text-decoration: none;
+    font-size: 30px;
+    transition: .5s;
+}
+
+header nav {
+    width: 40%;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header a {
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 20px;
+}
+
+header ul a:hover {
+    color: red;
+    transition: .5s;
+}
+
+header div {
+    display: flex;
+    height: 100px;
+    align-items: center;
+    padding: 10px 5% 10px 10%;
+}
+
