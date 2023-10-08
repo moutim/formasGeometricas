@@ -4,12 +4,12 @@ import './cardGeometric.css';
 function CardGeometric({ title, srcImg, altImg, description, path }) {
   return (
     <div className='card-geometric'>
-        <h3>{ title }</h3>
         <img src={ srcImg } alt={ altImg } />
+        <h3>{ title }</h3>
         <p>{ description }</p>
         <button>
             <a href={`/${path}`}>
-                Conhecer mais
+              Read more
             </a>
         </button>
     </div>
