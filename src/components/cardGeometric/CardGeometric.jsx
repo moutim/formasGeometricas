@@ -9,7 +9,7 @@ function CardGeometric({ title, srcImg, altImg, description, path }) {
         <p>{ description }</p>
         <button>
             <a href={`/${path}`}>
-                Conhecer mais
+                More
             </a>
         </button>
     </div>
