@@ -1,27 +1,52 @@
 .container-home {
     margin: auto;
-    background-image: url('./images/background.svg');
+}
+
+.container-background {
+    background-image: url('../../images/background.svg');
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.container-home section {
+.first-section-home {
     text-align: center;
     width: 45%;
-    height: 100vh;
+    height: 90vh;
     margin: auto;
     background: rgba(80, 128, 107, 0.20);
     backdrop-filter: blur(20px);
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
 
-.container-home section h2 {
+.first-section-home h2 {
     font-size: 80px;
 }
 
-.container-home section p {
+.first-section-home p {
     font-size: 30px;
     width: 80%;
+}
+
+.section-popular {
+    background-color: white;
+    width: 70%;
+    margin: auto;
+}
+
+.section-popular h2 {
+    font-size: 45px;
+    margin: 40px 0 25px 0;
+}
+
+.section-popular span {
+    color: var(--title-pink);
+}
+
+.section-popular div {
+    margin: 15px 0;
+    display: flex;
+    justify-content: space-around;
 }

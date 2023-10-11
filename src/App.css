@@ -7,8 +7,6 @@
   font-family: 'Poppins', sans-serif;
 }
 
-body {
-  background-image: url('./images/background.svg');
-  background-repeat: no-repeat;
-  background-size: cover;
+:root {
+  --title-pink: #FF4D78;
 }
