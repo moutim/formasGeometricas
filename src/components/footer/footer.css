@@ -1,0 +1,16 @@
+footer {
+    height: 55px;
+    background-color: #50806B;
+    color: white;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+footer a {
+    color: white;
+    text-decoration: underline;
+    font-size: 25px;
+}

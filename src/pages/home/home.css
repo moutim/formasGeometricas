@@ -53,5 +53,17 @@
 
 .section-popular-2 {
     background-color: #E0E5F6;
-    padding-top: 3px;
+    padding: 5px 0;
+}
+
+.section-review div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.section-review h2 {
+    margin: 25px 0;
+    text-align: center;
+    font-size: 45px;
 }
