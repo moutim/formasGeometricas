@@ -4,6 +4,10 @@ import circleImage from '../../images/circle.svg';
 import triangleImage from '../../images/triangle.svg';
 import rectangleImage from '../../images/rectangle.svg';
 import circleAnnulusImage from '../../images/circle-annulus.svg';
+import circularImage from '../../images/circular.svg';
+import polygonImage from '../../images/polygon.svg';
+import squareImage from '../../images/square.svg';
+import trapezoidImage from '../../images/trapezoid.svg';
 
 
 function Home() {
@@ -54,6 +58,48 @@ function Home() {
           />
         </div>
       </section>
+
+      <div className='section-popular-2'>
+        <section className='section-popular section-popular-2'>
+          <h2><span>Our</span> Hottest Forms</h2>
+          <hr />
+
+          <div>
+            <CardGeometric 
+              title="Irregular Trapezoid"
+              srcImg={ trapezoidImage }
+              altImg="Photo of a circle"
+              description="Discover the magic of circular symmetry"
+              path="circle"
+            />
+
+            <CardGeometric 
+              title="Regular Polygon"
+              srcImg={ polygonImage }
+              altImg="Photo of a circle"
+              description="Discover the magic of circular symmetry"
+              path="circle"
+            />
+
+            <CardGeometric 
+              title="Square"
+              srcImg={ squareImage }
+              altImg="Photo of a circle"
+              description="Discover the magic of circular symmetry"
+              path="circle"
+            />
+
+            <CardGeometric 
+              title="Circular Sector"
+              srcImg={ circularImage }
+              altImg="Photo of a circle"
+              description="Discover the magic of circular symmetry"
+              path="circle"
+            />
+          </div>
+        </section>
+      </div>
+
     </div>
   )
 }

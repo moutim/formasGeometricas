@@ -50,3 +50,8 @@
     display: flex;
     justify-content: space-around;
 }
+
+.section-popular-2 {
+    background-color: #E0E5F6;
+    padding-top: 3px;
+}
