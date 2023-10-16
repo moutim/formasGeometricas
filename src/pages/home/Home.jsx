@@ -33,23 +33,23 @@ function Home() {
             title="Triangle"
             srcImg={ triangleImage }
             altImg="Photo of a circle"
-            description="Discover the magic of circular symmetry"
+            description="Discover the magic of triangle symmetry"
             path="circle"
           />
 
           <CardGeometric 
-            title="Circle"
+            title="Rectangle"
             srcImg={ rectangleImage }
             altImg="Photo of a circle"
-            description="Discover the magic of circular symmetry"
+            description="Discover the magic of reactangle symmetry"
             path="circle"
           />
 
           <CardGeometric 
-            title="Circle"
+            title="Circle annulus"
             srcImg={ circleAnnulusImage }
             altImg="Photo of a circle"
-            description="Discover the magic of circular symmetry"
+            description="Discover the magic of circular annulus symmetry"
             path="circle"
           />
         </div>

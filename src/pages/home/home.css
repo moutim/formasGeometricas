@@ -13,8 +13,8 @@
     width: 45%;
     height: 90vh;
     margin: auto;
-    background: rgba(80, 128, 107, 0.20);
-    backdrop-filter: blur(20px);
+    background: rgba(80, 128, 107, 0.30);
+    backdrop-filter: blur(15px);
     display: flex;
     flex-direction: column;
     align-items: center;
