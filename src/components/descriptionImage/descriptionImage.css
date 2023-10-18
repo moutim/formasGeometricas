@@ -1,0 +1,10 @@
+.descriptionImage {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+}
+
+.descriptionImage a {
+    color: rgba(0, 0, 0, 0.6);
+    margin: 25px 0;
+}

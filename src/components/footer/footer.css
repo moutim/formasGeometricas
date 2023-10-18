@@ -6,7 +6,12 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+    /* position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0; */
     margin-top: 50px;
+    width: 100%;
 }
 
 footer a {

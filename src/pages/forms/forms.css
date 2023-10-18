@@ -1,0 +1,11 @@
+.articleForms div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.articleForms h2 {
+    text-align: center;
+    margin: 40px 0;
+    font-size: 40px;
+}

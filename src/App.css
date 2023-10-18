@@ -10,3 +10,7 @@
 :root {
   --title-pink: #FF4D78;
 }
+
+body {
+  height: 100vh;
+}

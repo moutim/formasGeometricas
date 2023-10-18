@@ -1,0 +1,44 @@
+.calcForms {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.calcForms input {
+    width: 350px;
+    height: 40px;
+    font-size: 30px;
+    margin: 20px 0;
+}
+
+.calcForms label {
+    display: flex;
+    flex-direction: column;
+    color: rgba(0, 0, 0, 0.6);
+    font-size: 20px;
+}
+
+.calcForms div:nth-child(2) {
+    margin: 0 40px;
+}
+
+.calcForms button {
+    padding: 10px 40px;
+    border: none;
+    color: white;
+    font-size: 20px;
+    background-color: var(--title-pink);
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.25);
+    margin: 20px 0;
+}
+
+.calcForms p {
+    /* margin: 20px 0; */
+    font-size: 20px;
+}
+
+.calcForms span {
+    color: var(--title-pink);
+    font-weight: bold;
+}
