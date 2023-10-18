@@ -36,7 +36,7 @@ function Forms() {
                     srcImg={rectangleImage}
                     altImg="Photo of a circle"
                     description="Discover the magic of reactangle symmetry"
-                    path="circle"
+                    path="rectangle"
                 />
 
                 <CardGeometric
@@ -44,7 +44,7 @@ function Forms() {
                     srcImg={circleAnnulusImage}
                     altImg="Photo of a circle"
                     description="Discover the magic of circular annulus symmetry"
-                    path="circle"
+                    path="circle-annulus"
                 />
 
                 <CardGeometric
@@ -52,7 +52,7 @@ function Forms() {
                     srcImg={trapezoidImage}
                     altImg="Photo of a circle"
                     description="Discover the magic of circular symmetry"
-                    path="circle"
+                    path="trapezoid"
                 />
 
                 <CardGeometric
@@ -60,7 +60,7 @@ function Forms() {
                     srcImg={polygonImage}
                     altImg="Photo of a circle"
                     description="Discover the magic of circular symmetry"
-                    path="circle"
+                    path="polygon"
                 />
 
                 <CardGeometric
@@ -68,7 +68,7 @@ function Forms() {
                     srcImg={squareImage}
                     altImg="Photo of a circle"
                     description="Discover the magic of circular symmetry"
-                    path="circle"
+                    path="square"
                 />
 
                 <CardGeometric
@@ -76,7 +76,7 @@ function Forms() {
                     srcImg={circularImage}
                     altImg="Photo of a circle"
                     description="Discover the magic of circular symmetry"
-                    path="circle"
+                    path="circular"
                 />
             </div>
         </article>

@@ -38,25 +38,25 @@ function Home() {
           <CardGeometric 
             title="Triangle"
             srcImg={ triangleImage }
-            altImg="Photo of a circle"
+            altImg="Photo of a triangle"
             description="Discover the magic of triangle symmetry"
-            path="circle"
+            path="triangle"
           />
 
           <CardGeometric 
             title="Rectangle"
             srcImg={ rectangleImage }
-            altImg="Photo of a circle"
+            altImg="Photo of a rectangle"
             description="Discover the magic of reactangle symmetry"
-            path="circle"
+            path="rectangle"
           />
 
           <CardGeometric 
             title="Circle annulus"
             srcImg={ circleAnnulusImage }
-            altImg="Photo of a circle"
+            altImg="Photo of a ircular annulus"
             description="Discover the magic of circular annulus symmetry"
-            path="circle"
+            path="ircular-annulus"
           />
         </div>
       </section>
@@ -70,33 +70,33 @@ function Home() {
             <CardGeometric 
               title="Irregular Trapezoid"
               srcImg={ trapezoidImage }
-              altImg="Photo of a circle"
-              description="Discover the magic of circular symmetry"
-              path="circle"
+              altImg="Photo of a trapezoid"
+              description="Discover the magic of trapezoid symmetry"
+              path="trapezoid"
             />
 
             <CardGeometric 
               title="Regular Polygon"
               srcImg={ polygonImage }
-              altImg="Photo of a circle"
-              description="Discover the magic of circular symmetry"
-              path="circle"
+              altImg="Photo of a polygon"
+              description="Discover the magic of polygon symmetry"
+              path="polygon"
             />
 
             <CardGeometric 
               title="Square"
               srcImg={ squareImage }
-              altImg="Photo of a circle"
-              description="Discover the magic of circular symmetry"
-              path="circle"
+              altImg="Photo of a square"
+              description="Discover the magic of square symmetry"
+              path="square"
             />
 
             <CardGeometric 
               title="Circular Sector"
               srcImg={ circularImage }
-              altImg="Photo of a circle"
+              altImg="Photo of a circular"
               description="Discover the magic of circular symmetry"
-              path="circle"
+              path="circular"
             />
           </div>
         </section>
