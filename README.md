@@ -1,8 +1,21 @@
-# React + Vite
+# Calculadora de Áreas
+Este é um projeto em React, JavaScript e CSS que permite calcular a área de diferentes formas geométricas. O projeto usa componentes funcionais e hooks para gerenciar o estado e os eventos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Formas Geométricas Suportadas
+O projeto suporta as seguintes formas geométricas:
 
-Currently, two official plugins are available:
+Círculo
+Tronco da pirâmide
+Retângulo
+Coroa do círculo
+Trapezoide irregular
+Polígono regular com N lados
+Quadrado
+Setor circular em um círculo aninhado
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Deploy da aplicação
+
+[Deploy feito pelo Vercel](https://moutim.github.io/eOBancoEm/index.html)
+
+![image](https://github.com/moutim/formasGeometricas/assets/88093439/60462a49-a39a-4f53-935c-21225d290b22)
+
