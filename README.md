@@ -2,16 +2,16 @@
 Este é um projeto em React, JavaScript e CSS que permite calcular a área de diferentes formas geométricas. O projeto usa componentes funcionais e hooks para gerenciar o estado e os eventos.
 
 ## Formas Geométricas Suportadas
-O projeto suporta as seguintes formas geométricas:
 
-Círculo
-Tronco da pirâmide
-Retângulo
-Coroa do círculo
-Trapezoide irregular
-Polígono regular com N lados
-Quadrado
-Setor circular em um círculo aninhado
+O projeto suporta as seguintes formas geométricas:
+* Círculo
+* Tronco da pirâmide
+* Retângulo
+* Coroa do círculo
+* Trapezoide irregular
+* Polígono regular com N lados
+* Quadrado
+* Setor circular em um círculo aninhado
 
 ## Deploy da aplicação
 
