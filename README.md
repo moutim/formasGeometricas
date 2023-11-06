@@ -15,7 +15,7 @@ O projeto suporta as seguintes formas geométricas:
 
 ## Deploy da aplicação
 
-[Deploy feito pelo Vercel](https://moutim.github.io/eOBancoEm/index.html)
+[Deploy feito pelo Vercel](https://formas-geometricas.vercel.app/)
 
 ![image](https://github.com/moutim/formasGeometricas/assets/88093439/60462a49-a39a-4f53-935c-21225d290b22)
 
