@@ -11,7 +11,7 @@ footer {
 }
 
 footer a {
-    color: white;
+    color: var(--title-pink);
     text-decoration: underline;
     font-size: 25px;
 }
