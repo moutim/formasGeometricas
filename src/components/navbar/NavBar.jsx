@@ -14,8 +14,7 @@ function NavBar() {
         <ul>
           <li><a href="/">Home</a></li>
           <li><a href="/forms">Forms</a></li>
-          <li><a href="">About us</a></li>
-          <li><a href="">Contact us</a></li>
+          <li><a href="/aboutUs">About us</a></li>
         </ul>
       </nav>
     </header>
